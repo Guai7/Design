@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract_Factory_Pattern/Abstract_Factory_Pattern.iml" filepath="$PROJECT_DIR$/Abstract_Factory_Pattern/Abstract_Factory_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design_Mode.iml" filepath="$PROJECT_DIR$/Design_Mode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Single_danli/Single_danli.iml" filepath="$PROJECT_DIR$/Single_danli/Single_danli.iml" />
     </modules>
