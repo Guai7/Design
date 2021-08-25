@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Design_Mode.iml" filepath="$PROJECT_DIR$/Design_Mode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Single_danli/Single_danli.iml" filepath="$PROJECT_DIR$/Single_danli/Single_danli.iml" />
+    </modules>
+  </component>
+</project>
